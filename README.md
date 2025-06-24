@@ -2,6 +2,8 @@
 
 An advanced AI-powered voice sales agent with RAG (Retrieval-Augmented Generation) capabilities for intelligent conversations about the course. Features both custom rule-based responses and AI-powered responses using real-time voice interaction.
 
+![image](https://github.com/user-attachments/assets/53909f56-70cc-47e2-9c35-9ec76769eec3)
+
 ## 🚀 Quick Start
 
 1. **Install Python 3.8+** (Recommended: Python 3.11+)
