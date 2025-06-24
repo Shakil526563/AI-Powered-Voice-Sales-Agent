@@ -50,9 +50,8 @@ An advanced AI-powered voice sales agent with RAG (Retrieval-Augmented Generatio
 ### 🔧 Technical Features
 - ✅ **FastAPI Backend** - Modern, async REST API with automatic docs
 - ✅ **Responsive Web Interface** - Clean, mobile-friendly UI
-- ✅ **Real-time Conversation History** - Live chat display with timestamps
+- ✅ **Real-time Conversation History** - Live chat display with text and audio
 - ✅ **Mode Switching** - Toggle between RAG and custom response modes
-- ✅ **Error Handling** - Robust error handling with user feedback
 - ✅ **Health Monitoring** - RAG status endpoint and system diagnostics
 
 ### 🚀 Performance Features
@@ -82,24 +81,6 @@ An advanced AI-powered voice sales agent with RAG (Retrieval-Augmented Generatio
 - Type customer responses in the text input
 - Click **"Send Response"** for text-based interaction
 - Perfect for testing or when microphone isn't available
-
-## 🗣️ Example Voice Interactions
-
-**Customer can say:**
-- "Tell me about the AI bootcamp"
-- "What's the price?"
-- "How long is the course?"
-- "I'm interested but it's expensive"
-- "I don't have time for this"
-- "Not interested"
-- "What topics are covered?"
-
-**AI Agent responds intelligently with:**
-- Course details and benefits
-- Pricing and special offers
-- Objection handling
-- Lead qualification questions
-- Natural conversation flow
 
 ## 🔧 API Endpoints
 
