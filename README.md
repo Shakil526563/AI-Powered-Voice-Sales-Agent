@@ -1,6 +1,6 @@
 # 🎤 AI Voice Sales Agent
 
-An advanced AI-powered voice sales agent with RAG (Retrieval-Augmented Generation) capabilities for intelligent conversations about the "AI Mastery Bootcamp" course. Features both custom rule-based responses and AI-powered responses using real-time voice interaction.
+An advanced AI-powered voice sales agent with RAG (Retrieval-Augmented Generation) capabilities for intelligent conversations about the course. Features both custom rule-based responses and AI-powered responses using real-time voice interaction.
 
 ## 🚀 Quick Start
 
